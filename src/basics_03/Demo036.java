@@ -12,7 +12,7 @@ public class Demo036 {
 //
 //        }else{
 
-        boolean b = true;
+        boolean b = !true;
         if (b){
             System.out.println("b is true");
 
