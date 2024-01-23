@@ -10,7 +10,7 @@ public class Demo003 {
         //byte,short.int,long,char
         //float, double,
         //boolean -> True, false
-        //Nin primitive data types
+        //Non-primitive data types
         //String, Arrays,Class
     }
 }

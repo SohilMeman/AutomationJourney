@@ -10,6 +10,7 @@ public class Demo006 {
      */
     public static void main(String[] args) {
         System.out.print("Hello World");
+        System.out.println();
         System.out.println("Sohil");
 
         //souf printf used to do a formatting

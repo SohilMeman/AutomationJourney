@@ -17,9 +17,9 @@ public class Demo041 {
         if(a>=b && a>=c){
             System.out.println("Max is " +a);
         }else if (b>=a && b>=c)
-            System.out.println("Max is" +b);
+            System.out.println("Max is " +b);
         else{
-            System.out.println("Max is" +c);
+            System.out.println("Max is " +c);
 
         }
     }
